@@ -7,10 +7,10 @@ public class advancedNamingConvention {
     private int phoneNumber;
 
     void CAllToFriend() {
-        //some code
+        int phonenum = 0131115;
     }
 
     void callByNumber(int Number) {
-        //some code
+        Number = 0000001;
     }
 }
